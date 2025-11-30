@@ -1,0 +1,14 @@
+C:\Users\Ariana\Downloads\HelpDeskSystem\src\main\java\com\helpdesk\controller\AdminDashboardServlet.java
+C:\Users\Ariana\Downloads\HelpDeskSystem\src\main\java\com\helpdesk\controller\CreateTicketServlet.java
+C:\Users\Ariana\Downloads\HelpDeskSystem\src\main\java\com\helpdesk\controller\DashboardServlet.java
+C:\Users\Ariana\Downloads\HelpDeskSystem\src\main\java\com\helpdesk\controller\DeleteTicketServlet.java
+C:\Users\Ariana\Downloads\HelpDeskSystem\src\main\java\com\helpdesk\controller\LoginServlet.java
+C:\Users\Ariana\Downloads\HelpDeskSystem\src\main\java\com\helpdesk\controller\LogoutServlet.java
+C:\Users\Ariana\Downloads\HelpDeskSystem\src\main\java\com\helpdesk\controller\RegisterServlet.java
+C:\Users\Ariana\Downloads\HelpDeskSystem\src\main\java\com\helpdesk\controller\UpdateStatusServlet.java
+C:\Users\Ariana\Downloads\HelpDeskSystem\src\main\java\com\helpdesk\controller\ViewTicketServlet.java
+C:\Users\Ariana\Downloads\HelpDeskSystem\src\main\java\com\helpdesk\dao\TicketDAO.java
+C:\Users\Ariana\Downloads\HelpDeskSystem\src\main\java\com\helpdesk\dao\UserDAO.java
+C:\Users\Ariana\Downloads\HelpDeskSystem\src\main\java\com\helpdesk\model\Ticket.java
+C:\Users\Ariana\Downloads\HelpDeskSystem\src\main\java\com\helpdesk\model\User.java
+C:\Users\Ariana\Downloads\HelpDeskSystem\src\main\java\com\helpdesk\util\DBUtil.java
